@@ -1,0 +1,108 @@
+{
+    "Burguers":[
+        {
+            "nome":"Cheeseburger",
+            "tipo de hamburguer": "Costela de bovina angus",
+            "tipo de pão": "Brioche",
+            "ingredientes":"Maionese e Queijo Prato.",
+            "preço": 15.50,
+            "id": 1
+        },
+        {
+            "nome":"Cheesebacon",
+            "tipo de hamburguer": "Costela de bovina angus",
+            "tipo de pão": "Brioche",
+            "ingredientes":"Bacon crocante, Maionese e Queijo Prato.",
+            "preço": 18.50,
+            "id": 2
+        },
+        {
+            "nome":"Cheddar",
+            "tipo de hamburguer": "Costela de bovina angus",
+            "tipo de pão": "Australiano",
+            "ingredientes":"Bacon, Queijo Cheddar Derretido e Cebola caramelizada.",
+            "preço": 18.50,
+            "id": 3
+        },
+        {
+            "nome":"Salada",
+            "tipo de hamburguer": "Carne",
+            "tipo de pão": "Brioche",
+            "ingredientes":"Queijo, Maionese e Salada",
+            "preço": 16.50,
+            "id": 4
+        }
+
+        
+    ],
+
+    "Acompanhamento":[
+        {
+            "nome":"Chunks Chicken",
+            "Tipos de frango": "Peito de frango",
+            "ingredientes": "Farinha, Rosca e Temperos.",
+            "peso":"250g",
+            "preço": 29.90,
+            "id": 1
+        },
+        {
+            "nome":"Croquete Suíno",
+            "tipos de carne de porco": "Suína",
+            "unidades": 6,
+            "ingredientes":"Farinha, rosca e Temperos",
+            "preço": 44.90,
+            "id": 2
+        },
+        {
+            "nome":"Batata Frita",
+            "tipos de Batata": "Baraka",
+            "ingredientes": "Farinha e Sal",
+            "tamanhos":"Média",
+            "preço": 8.00,
+            "id": 3
+        },
+        {
+            "nome":"Panico 6",
+            "diretor": "Matt Bettinelli-Olpin e Tyler Gillett",
+            "classificacao": "14 anos",
+            "distribuidora":"Paramount Pictures",
+            "duracao": "118 min",
+            "id": 4
+        }
+    ],
+    
+    "Bebidas":[
+        {
+            "nome":"Gato de Botas 2 O Último Pedido",
+            "diretor": "Joel Crawford, Januel",
+            "classificacao": "Livre",
+            "distribuidora":"Universal",
+            "duracao": "100 min",
+            "id": 1
+        },
+        {
+            "nome":"Elemental",
+            "diretor": "Peter Sohn",
+            "classificacao": "Livre",
+            "distribuidora":"Walt Disney",
+            "duracao": "100 min",
+            "id": 2
+        },
+        {
+            "nome":"Super Mario Bros - O Filme",
+            "diretor": "Aaron Horvath e Michael Jelenic",
+            "classificacao": "Livre",
+            "distribuidora":"Universal",
+            "duracao": "105 min",
+            "id": 3
+        },
+        {
+            "nome":"Homem-Aranha: Através Do Aranhaverso - Parte 1",
+            "diretor": "Joaquim Dos Santos e Kemp Powers",
+            "classificacao": "Livre",
+            "distribuidora":"Sony Pictures",
+            "duracao": "115 min",
+            "id": 4
+        }
+        
+    ]}
