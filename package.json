@@ -1,23 +1,23 @@
 {
-  "name": "projectfriday13th",
-  "version": "1.0.0",
-  "description": "Creating a Json Server.",
-  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "name": "projeto-json-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Luciano Comanche",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LowGameer/ProjectFriday13th.git"
   },
-  "author": "Luciano Comanche",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/LowGameer/ProjectFriday13th/issues"
   },
   "homepage": "https://github.com/LowGameer/ProjectFriday13th#readme",
-  "dependencies": {
-    "json-server": "^0.17.1"
-  }
+  "description": ""
 }
