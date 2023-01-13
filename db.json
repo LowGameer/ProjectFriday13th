@@ -62,46 +62,41 @@
             "id": 3
         },
         {
-            "nome":"Panico 6",
-            "diretor": "Matt Bettinelli-Olpin e Tyler Gillett",
-            "classificacao": "14 anos",
-            "distribuidora":"Paramount Pictures",
-            "duracao": "118 min",
+            "nome":"Molhos",
+            "tipos de Molhos": "Barbacue, Agridoce, Ranch e Caipira",
+            "peso": "100g",
+            "preço": 3.50,
             "id": 4
         }
     ],
     
     "Bebidas":[
         {
-            "nome":"Gato de Botas 2 O Último Pedido",
-            "diretor": "Joel Crawford, Januel",
-            "classificacao": "Livre",
-            "distribuidora":"Universal",
-            "duracao": "100 min",
+            "nome":"Refri",
+            "amanho": "400ml",
+            "tipos de Refrigerante": "Coca-Cola, Fanta Guaraná e Fanta Laranja",
+            "preço":10.90,
             "id": 1
         },
         {
-            "nome":"Elemental",
-            "diretor": "Peter Sohn",
-            "classificacao": "Livre",
-            "distribuidora":"Walt Disney",
-            "duracao": "100 min",
+            "nome":"Sucos",
+            "tipos de Sucos": "Del Valle Laranja e Del Valle Uva",
+            "tamanho": "400ml",
+            "preço": 10.90,
             "id": 2
         },
         {
-            "nome":"Super Mario Bros - O Filme",
-            "diretor": "Aaron Horvath e Michael Jelenic",
-            "classificacao": "Livre",
-            "distribuidora":"Universal",
-            "duracao": "105 min",
+            "nome":"Chás",
+            "tipos de chás": "Mate Leão Natural, Mate Leão Limão e Mate Leão Pêssego",
+            "tamanho": "450ml",
+            "preço": 9.90,
             "id": 3
         },
         {
-            "nome":"Homem-Aranha: Através Do Aranhaverso - Parte 1",
-            "diretor": "Joaquim Dos Santos e Kemp Powers",
-            "classificacao": "Livre",
-            "distribuidora":"Sony Pictures",
-            "duracao": "115 min",
+            "nome":"Águas",
+            "tipos de Águas": "Água natural e Água com gás",
+            "tamanho": "500ml",
+            "preço": 9.90,
             "id": 4
         }
         
